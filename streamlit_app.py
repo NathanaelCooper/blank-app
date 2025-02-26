@@ -7,5 +7,5 @@ while True:
     clock.info('**Current time: ** %s' % (time))
     if time == '16:09:50':
         clock.empty()
-        st.warning(‘Alarm!!’)
+        st.warning('Alarm!!')
         break
